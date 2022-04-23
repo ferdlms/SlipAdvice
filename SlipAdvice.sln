@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlipAdvice", "SlipAdvice\SlipAdvice.csproj", "{B3053064-D39C-440A-B3D8-7A154EA51300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipAdviceForm", "SlipAdviceForm\SlipAdviceForm.csproj", "{76B5E87F-06C5-4C2F-AB3C-0E85C19047C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3053064-D39C-440A-B3D8-7A154EA51300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3053064-D39C-440A-B3D8-7A154EA51300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3053064-D39C-440A-B3D8-7A154EA51300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3053064-D39C-440A-B3D8-7A154EA51300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B5E87F-06C5-4C2F-AB3C-0E85C19047C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B5E87F-06C5-4C2F-AB3C-0E85C19047C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B5E87F-06C5-4C2F-AB3C-0E85C19047C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B5E87F-06C5-4C2F-AB3C-0E85C19047C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5D642B-3A0F-4A60-BBC8-DB26F4B744A7}
+	EndGlobalSection
+EndGlobal

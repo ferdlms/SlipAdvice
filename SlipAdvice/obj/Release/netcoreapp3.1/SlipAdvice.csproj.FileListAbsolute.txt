@@ -1,0 +1,16 @@
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.exe
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.deps.json
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.runtimeconfig.json
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.runtimeconfig.dev.json
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.dll
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\SlipAdvice.pdb
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.AssemblyInfoInputs.cache
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.AssemblyInfo.cs
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.csproj.CoreCompileInputs.cache
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.csproj.CopyComplete
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.dll
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.pdb
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.genruntimeconfig.cache
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.csprojAssemblyReference.cache
+C:\Users\fferd\source\repos\SlipAdvice\SlipAdvice\obj\Release\netcoreapp3.1\SlipAdvice.GeneratedMSBuildEditorConfig.editorconfig
